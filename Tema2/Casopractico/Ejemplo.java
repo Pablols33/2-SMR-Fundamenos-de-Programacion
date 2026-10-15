@@ -1,4 +1,4 @@
-package Ejemplos;
+package Tema2.Casopractico;
 
 public class Ejemplo {
     public static void main(String[] args) {
