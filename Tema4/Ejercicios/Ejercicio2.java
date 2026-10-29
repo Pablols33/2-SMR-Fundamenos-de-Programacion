@@ -8,7 +8,11 @@ public class Ejercicio2 {
         
         System.out.println("Introduce tu edad: ");
         String edadTexto = sc.nextLine();
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> 12c3ac938fb39c48b44b545ff0cff48f3a8ed143
         int edad = Integer.parseInt(edadTexto);
         System.out.println("¿Eres mayor de edad?" + (edad >= 18));
     }
