@@ -1,4 +1,4 @@
-package Tema5.Ejercicios;
+package Tema5.Ejercicioos;
     import java.util.Scanner;
 public class Ejercicio1 {
     public static void main(String[] args) {
