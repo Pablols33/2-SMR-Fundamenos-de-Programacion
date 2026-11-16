@@ -8,7 +8,7 @@ public class Ejercicio2 {
         System.out.println("Introude la edad: ");
         int edad1 = sc.nextInt();
 
-        if(edad1 >=11 && edad1 <=11){
+        if(edad1 >=0 && edad1 <=11){
             System.out.println(edad1 + "Niño");
         }
         else if(edad1 >=12 && edad1 <=17){
@@ -17,8 +17,8 @@ public class Ejercicio2 {
         else if(edad1 >=18 && edad1 <=64){
             System.out.println(edad1 + "Adulto");
         }
-        else if(edad1 >=64 && edad1 <=65){
-            System.out.println(edad1 + "Mayor");
+        else {
+            System.out.println("Mayor");
         }
     }
 }
